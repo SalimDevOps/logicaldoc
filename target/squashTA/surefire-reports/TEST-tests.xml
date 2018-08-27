@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="27.649" failures="0" tests="1" name="tests" >
+  <testcase time="27.639" classname="tests" name="soap-test2.ta" />
+</testsuite>

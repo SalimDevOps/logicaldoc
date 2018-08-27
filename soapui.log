@@ -1,0 +1,5 @@
+2018-08-27 18:29:03,236 WARN  [SoapUI] Missing folder [C:\Formation\SquashTA-1.10.0-RELEASE-workspace\monProjectReadyAPI\.\ext] for external libraries
+2018-08-27 18:29:03,455 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\formation\soapui-settings.xml]
+2018-08-27 18:29:03,854 INFO  [SoapUI] File [C:\Formation\SquashTA-1.10.0-RELEASE-workspace\monProjectReadyAPI\file:\C:\Users\FORMAT~1\AppData\Local\Temp\Squash_TA\20180827_182834_924\tests\tests\soap-test2.ta\ta_url_repo_Project2339489893019265082.xml] does not exist, trying URL instead
+2018-08-27 18:29:03,902 INFO  [WsdlProject] Loaded project from [file:/C:/Users/FORMAT~1/AppData/Local/Temp/Squash_TA/20180827_182834_924/tests/tests/soap-test2.ta/ta_url_repo_Project2339489893019265082.xml]
+2018-08-27 18:29:05,855 WARN  [AbstractSoapVersion] Ignoring validation error: error: cvc-complex-type.3.2.2: Attribute not allowed: encodingStyle@http://schemas.xmlsoap.org/soap/envelope/ in element Envelope@http://schemas.xmlsoap.org/soap/envelope/
