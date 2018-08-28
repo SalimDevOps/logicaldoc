@@ -1,0 +1,3 @@
+TEST :
+
+# EXECUTE_SOAPUI LogicalDoc-Services-readyapi-project.xml WITH TEST_SUITE LogicalDoc-TestSuites AND TEST_CASE TestCase_unbookmarkDocument
